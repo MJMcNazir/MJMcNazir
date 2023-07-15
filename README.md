@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello and welcome to my profile! 👋
+I'm thrilled to have you here and I hope you find my work inspiring and intriguing. 
+Let's build the future together through the art of software engineering!
+
 </br>
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/mohammad-javad-nazirzadeh-a84520a8/" target="_blank">
