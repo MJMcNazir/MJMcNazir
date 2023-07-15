@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+</br>
+<h2> Connect with me on 👇</h2>
+<a href="https://www.linkedin.com/in/mohammad-javad-nazirzadeh-a84520a8/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn--blue" />
+<br/> 
 <!--
 **MJMcNazir/MJMcNazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
