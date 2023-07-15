@@ -7,6 +7,11 @@ Let's build the future together through the art of software engineering!
 <a href="https://www.linkedin.com/in/mohammad-javad-nazirzadeh-a84520a8/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 <br/> 
+
+<h2> Github Stats </h2> 
+<a href="https://github.com/MJMcNazir/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJMcNazir&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MJMcNazir&theme=tokyonight" alt="MJMcNazir" />
+<br/>
 <!--
 **MJMcNazir/MJMcNazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
