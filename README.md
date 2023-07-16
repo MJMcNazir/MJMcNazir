@@ -8,6 +8,9 @@ Let's build the future together through the art of software engineering!
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 <a href="https://discussions.unity.com/u/nazirzadeh/summary/" target="_blank">
 <img src="https://img.shields.io/badge/Unity Discussions--green" />
+<a href="https://www.hackerrank.com/javad_nazirzadeh" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
+</a> 
 <br/> 
 
 <h2> Github Stats </h2> 
