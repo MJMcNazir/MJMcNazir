@@ -19,7 +19,8 @@ Let's build the future together through the art of software engineering!
 ![](https://visitor-badge.glitch.me/badge?page_id=MJMcNazir.MJMcNazir)
 
 ### Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=MJMcNazir&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/MJMcNazir/github-profile-trophy#about-rank)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MJMcNazir&theme=monokai&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/MJMcNazir/github-profile-trophy#about-rank)
+
 <!--
 **MJMcNazir/MJMcNazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
