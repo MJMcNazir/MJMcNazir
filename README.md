@@ -6,6 +6,8 @@ Let's build the future together through the art of software engineering!
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/mohammad-javad-nazirzadeh-a84520a8/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
+<a href="https://discussions.unity.com/u/nazirzadeh/summary/" target="_blank">
+<img src="https://img.shields.io/badge/Unity Discussions--green" />
 <br/> 
 
 <h2> Github Stats </h2> 
