@@ -13,7 +13,7 @@ Let's build the future together through the art of software engineering!
 <a href="https://leetcode.com/MJMcNazir/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode--darkorange" ;></img></a>
 <a href="https://wakatime.com/@Nazirzadeh" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode--darkblue" ;></img></a>
+<img src="https://img.shields.io/badge/WakaTime--darkblue" ;></img></a>
 <br/> 
 
 <h2> Github Stats </h2> 
@@ -23,7 +23,7 @@ Let's build the future together through the art of software engineering!
 
 ![](https://komarev.com/ghpvc/?username=MJMcNazir&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=MJMcNazir.MJMcNazir)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Nazirzadeh)](https://github.com/anuraghazra/github-readme-stats)
+![](https://wakatime.com/@Nazirzadeh)
 
 ### Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=MJMcNazir&theme=monokai&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/MJMcNazir/github-profile-trophy#about-rank)
