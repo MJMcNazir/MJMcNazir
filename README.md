@@ -12,16 +12,18 @@ Let's build the future together through the art of software engineering!
 <img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
 <a href="https://leetcode.com/MJMcNazir/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode--darkorange" ;></img></a>
-</a> 
+<a href="https://wakatime.com/@Nazirzadeh" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode--darkblue" ;></img></a>
 <br/> 
 
 <h2> Github Stats </h2> 
 <a href="https://github.com/MJMcNazir/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJMcNazir&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MJMcNazir&theme=tokyonight" alt="MJMcNazir" />
+<img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=MJMcNazir&theme=tokyonight" alt="MJMcNazir" />
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=MJMcNazir&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=MJMcNazir.MJMcNazir)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Nazirzadeh)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=MJMcNazir&theme=monokai&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/MJMcNazir/github-profile-trophy#about-rank)
