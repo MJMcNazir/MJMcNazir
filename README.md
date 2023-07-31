@@ -18,7 +18,7 @@ Let's build the future together through the art of software engineering!
 
 <h2> Github Stats </h2> 
 <a href="https://github.com/MJMcNazir/github-readme-stats"><img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJMcNazir&layout=compact&theme=tokyonight" /></a>
-<img width="54%" src="https://github-readme-streak-stats.herokuapp.com/?user=MJMcNazir&theme=tokyonight" alt="MJMcNazir" />
+<img width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=MJMcNazir&theme=tokyonight" alt="MJMcNazir" />
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=MJMcNazir&color=brightgreen)
