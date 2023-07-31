@@ -23,7 +23,6 @@ Let's build the future together through the art of software engineering!
 
 ![](https://komarev.com/ghpvc/?username=MJMcNazir&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=MJMcNazir.MJMcNazir)
-![](https://wakatime.com/@Nazirzadeh)
 
 ### Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=MJMcNazir&theme=monokai&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/MJMcNazir/github-profile-trophy#about-rank)
